@@ -1,0 +1,11 @@
+h1{
+  font-family: "Arial", bold, sans-serif;
+}
+.container{
+  padding:10px;
+}
+
+.images{
+  height:auto;
+  padding:1px;
+}
